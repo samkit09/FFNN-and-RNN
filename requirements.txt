@@ -1,5 +1,5 @@
 # This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
+# $ conda create --name nlp --file requirements.txt
 # platform: win-64
 blas=1.0=mkl
 brotli=1.0.9=h2bbff1b_7
